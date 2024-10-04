@@ -65,8 +65,17 @@ O Método Value consiste em investir em ativos subvalorizados, ou seja, cujo val
 
 O Método Value consiste em investir em ativos subvalorizados, ou seja, cujo valor intrínseco é maior que o preço de mercado, com base na análise de fundamentos econômicos. A estratégia busca lucrar quando o mercado ajustar os preços.
 
-## TECNOLOGIAS
--HTML
--CSS
--JAVA
-API viaCEP
+// Função de consumo de API  ViaCep
+// função assincrona
+const pesquisarCep = async () => {
+    limparFormulario();
+    // Url do tipo JSON
+    const url = `https://viacep.com.br/ws/${cep.value}/json/`;.
+
+
+## TECNOLOGIAS USADAS
+-HTML.
+-CSS.
+-JAVA.
+-API viaCEP.
+-GitHub.
