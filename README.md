@@ -44,25 +44,6 @@ const preencherFormulario = (endereco) => {
 
     Uma URL do tipo JSON é um endereço da web que, quando acessado, retorna dados no formato JSON (JavaScript ObjectNotation). O JSON é um formato leve e fácil de interpretar, usado para a troca de informações entre um cliente (como um navegador) e um servidor. URLs que retornam JSON são comuns em APls, como as que fornecem informações sobre endereços, clima, redes sociais, etc. Essas URLs permitem que programas obtenham e manipulem dados de forma eficiente.
 
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Como Executar o Projeto
 1. Clone o repositório para a sua máquina.
 2. Abra o projeto em um editor de sua escolha.
@@ -75,3 +56,17 @@ const preencherFormulario = (endereco) => {
 • Reduzir erros ao preencher dados de localização, já que as informações são diretamente consultadas em uma base de dados oficial.
 • Facilitar a integração com sistemas maiores, como plataformas de e-commerce ou sistemas de gestão de clientes, onde o cadastro de endereços é uma parte fundamental.
 • Proporcionar uma melhor experiência ao usuário, tornando o processo mais rápido e confiável.
+
+## METODO VALUUE
+
+O Método Value consiste em investir em ativos subvalorizados, ou seja, cujo valor intrínseco é maior que o preço de mercado, com base na análise de fundamentos econômicos. A estratégia busca lucrar quando o mercado ajustar os preços.
+
+## METODO FETCH
+
+O Método Value consiste em investir em ativos subvalorizados, ou seja, cujo valor intrínseco é maior que o preço de mercado, com base na análise de fundamentos econômicos. A estratégia busca lucrar quando o mercado ajustar os preços.
+
+## TECNOLOGIAS
+-HTML
+-CSS
+-JAVA
+API viaCEP
